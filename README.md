@@ -1,3 +1,3 @@
 -  Hi, I’m @walidbnkh
--  I’m interested in Web Devlopment
--  I’m currently stidying at ENSTTIC
+-  I’m interested in Web Development
+-  I’m currently studying at ENSTTIC
